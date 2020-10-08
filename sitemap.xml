@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
@@ -24,6 +19,11 @@
   
   <url>
     <loc>/author/morteza-moallemi/</loc>
+    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-12-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,7 +62,7 @@
   </url>
   
   <url>
-    <loc>/author/morteza-moallemii/</loc>
+    <loc>/author/morteza-moallemi/</loc>
   </url>
   
   <url>
